@@ -1,0 +1,6 @@
+c:\users\samurai\documents\visual studio 2017\Projects\SearchTitleBlockCreator\SearchTitleBlockCreator\bin\Debug\SearchTitleBlockCreator.exe.config
+c:\users\samurai\documents\visual studio 2017\Projects\SearchTitleBlockCreator\SearchTitleBlockCreator\bin\Debug\SearchTitleBlockCreator.exe
+c:\users\samurai\documents\visual studio 2017\Projects\SearchTitleBlockCreator\SearchTitleBlockCreator\bin\Debug\SearchTitleBlockCreator.pdb
+c:\users\samurai\documents\visual studio 2017\Projects\SearchTitleBlockCreator\SearchTitleBlockCreator\obj\Debug\SearchTitleBlockCreator.csprojResolveAssemblyReference.cache
+c:\users\samurai\documents\visual studio 2017\Projects\SearchTitleBlockCreator\SearchTitleBlockCreator\obj\Debug\SearchTitleBlockCreator.exe
+c:\users\samurai\documents\visual studio 2017\Projects\SearchTitleBlockCreator\SearchTitleBlockCreator\obj\Debug\SearchTitleBlockCreator.pdb

@@ -1,0 +1,6 @@
+c:\users\samurai\documents\visual studio 2017\Projects\SearchPozishonInFile\SearchPozishonInFile\bin\Debug\SearchPozishonInFile.exe.config
+c:\users\samurai\documents\visual studio 2017\Projects\SearchPozishonInFile\SearchPozishonInFile\bin\Debug\SearchPozishonInFile.exe
+c:\users\samurai\documents\visual studio 2017\Projects\SearchPozishonInFile\SearchPozishonInFile\bin\Debug\SearchPozishonInFile.pdb
+c:\users\samurai\documents\visual studio 2017\Projects\SearchPozishonInFile\SearchPozishonInFile\obj\Debug\SearchPozishonInFile.csprojResolveAssemblyReference.cache
+c:\users\samurai\documents\visual studio 2017\Projects\SearchPozishonInFile\SearchPozishonInFile\obj\Debug\SearchPozishonInFile.exe
+c:\users\samurai\documents\visual studio 2017\Projects\SearchPozishonInFile\SearchPozishonInFile\obj\Debug\SearchPozishonInFile.pdb

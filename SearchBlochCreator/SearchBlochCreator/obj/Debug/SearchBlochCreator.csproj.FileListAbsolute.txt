@@ -1,0 +1,7 @@
+c:\users\samurai\documents\visual studio 2015\Projects\SearchBlochCreator\SearchBlochCreator\bin\Debug\SearchBlochCreator.exe.config
+F:\SearchBlochCreator\SearchBlochCreator\bin\Debug\SearchBlochCreator.exe.config
+F:\SearchBlochCreator\SearchBlochCreator\bin\Debug\SearchBlochCreator.exe
+F:\SearchBlochCreator\SearchBlochCreator\bin\Debug\SearchBlochCreator.pdb
+F:\SearchBlochCreator\SearchBlochCreator\obj\Debug\SearchBlochCreator.csprojResolveAssemblyReference.cache
+F:\SearchBlochCreator\SearchBlochCreator\obj\Debug\SearchBlochCreator.exe
+F:\SearchBlochCreator\SearchBlochCreator\obj\Debug\SearchBlochCreator.pdb

@@ -1,0 +1,5 @@
+F:\SearchBlochCreator\SearchBlochCreator\bin\Release\SearchBlochCreator.exe.config
+F:\SearchBlochCreator\SearchBlochCreator\bin\Release\SearchBlochCreator.exe
+F:\SearchBlochCreator\SearchBlochCreator\bin\Release\SearchBlochCreator.pdb
+F:\SearchBlochCreator\SearchBlochCreator\obj\Release\SearchBlochCreator.exe
+F:\SearchBlochCreator\SearchBlochCreator\obj\Release\SearchBlochCreator.pdb
